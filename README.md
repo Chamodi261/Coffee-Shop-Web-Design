@@ -1,5 +1,4 @@
-
-# Coffee Shop Template
+# ☕ Coffee Shop Template
 ## ( React + Vite )
 
 This template provides a minimal setup to get a React-based responsive web application for a coffee shop up and running using Vite with Hot Module Replacement (HMR) and some ESLint rules. Tailwind CSS is included for easy and modern styling.
@@ -27,5 +26,3 @@ Ensure you have the following installed:
 
 - Node.js (>= 12.x)
 - npm (>= 6.x)
-
-
